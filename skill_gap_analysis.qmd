@@ -1,16 +1,15 @@
 ```{python}
 import pandas as pd
-# This is a template, need to update
+
+# Example skills data (can be updated later with real values)
 skills_data = {
     "Name": ["Anu", "Cindy", "Gavin"],
-    "Python": [5, 3, 4, 2],
-    "SQL": [4, 2, 5, 3],
-    "Machine Learning": [3, 1, 4, 2],
-    "Cloud Computing": [2, 2, 3, 1]
+    "Python": [5, 3, 4],
+    "SQL": [4, 2, 5],
+    "Machine Learning": [3, 1, 4],
+    "Cloud Computing": [2, 2, 3]
 }
 
-df_skills = pd.DataFrame(skills_data)
-df_skills.set_index("Name", inplace=True)
+df_skills = pd.DataFrame(skills_data).set_index("Name")
 df_skills
-
 ```

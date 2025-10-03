@@ -19,5 +19,47 @@
     "title": "Business Analytics, Data Science and Machine Learning Trends",
     "section": "",
     "text": "Recent studies are showing that employers are now giving more importance to skill-based hiring especially in data-related roles. (Bone, Ehlinger, and Stephany (2025)) found that in AI-related job postings, the need for formal degrees is slowly reducing while practical skills like machine learning and NLP are becoming more valued. (Mäkelä and Stephany (2024)) also pointed out that roles demanding AI expertise now also look for soft skills like adaptability and teamwork showing that a balance of technical and human skills is becoming necessary. These findings suggest that job descriptions are evolving to reflect this shift in priorities.\nFurther, our study reveals that hiring is strong in technology, healthcare and financial sectors where the use of data is becoming highly critical. These trends clearly indicates that both education and job markets must keep evolving to stay aligned with real-world demands."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "👥 About This Project\n\nExploring the future of work through data, collaboration, and curiosity.\nThe purpose of this project is to explore how job seekers can strategically position themselves in the evolving labor market of 2025. Rather than analyzing trends from a recruiter’s perspective, our team approached this challenge as future professionals navigating a landscape shaped by AI adoption, remote work, shifting salary norms, and gender-based employment patterns.Using real-world data from Lightcast and other labor market sources, we applied data science, analytics, and visualization techniques to investigate key workforce themes. Our goal was to uncover actionable insights that inform personal career planning and highlight the skills most in demand across industries. This website presents our findings, reflections, and recommendations—designed not only to fulfill academic objectives, but to serve as a practical roadmap for anyone preparing to enter or pivot within today’s dynamic job market."
+  },
+  {
+    "objectID": "data_analysis.html",
+    "href": "data_analysis.html",
+    "title": "Data Cleaning & Rationale",
+    "section": "",
+    "text": "In this section, we outline key decisions made during the data preprocessing phase, focusing on column relevance, code redundancy, and the impact on downstream analysis.\n\n\n\nAfter reviewing the dataset, we identified several columns that were either:\n\nIrrelevant to our analysis goals (e.g., internal IDs, timestamps not tied to labor trends)\nRedundant due to duplication or overlapping information\n\n\n\n\nrecord_id, submission_timestamp: Metadata not used in analysis\nnaics_code_2017, naics_code_2022: Multiple versions of the same classification system\nsoc_code_2010, soc_code_2018: Legacy codes that overlap with updated versions\n\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nNAICS (North American Industry Classification System) and SOC (Standard Occupational Classification) codes are updated periodically. Including multiple versions introduces: - Redundancy - Confusion in grouping industries or occupations - Risk of double-counting or misalignment in trend analysis\n\n\nWe retained only the most recent version of each code to ensure consistency and relevance to 2024 labor market trends.\n\n\n\n\nCleaning the dataset in this way improves our analysis by:\n\nReducing noise: Fewer columns means clearer signals\nImproving interpretability: Analysts and readers can focus on current classifications\nEnhancing visualizations: Charts and tables are easier to read and more meaningful\nEnsuring consistency: Aligns with external sources like Lightcast and BLS data\n\n\n\n\n\nWith a cleaner dataset, we’re now ready to explore key workforce themes—such as AI-driven job growth, salary disparities, and gender-based employment patterns—using reliable, streamlined data."
+  },
+  {
+    "objectID": "data_analysis.html#identifying-irrelevant-or-redundant-columns",
+    "href": "data_analysis.html#identifying-irrelevant-or-redundant-columns",
+    "title": "Data Cleaning & Rationale",
+    "section": "",
+    "text": "After reviewing the dataset, we identified several columns that were either:\n\nIrrelevant to our analysis goals (e.g., internal IDs, timestamps not tied to labor trends)\nRedundant due to duplication or overlapping information\n\n\n\n\nrecord_id, submission_timestamp: Metadata not used in analysis\nnaics_code_2017, naics_code_2022: Multiple versions of the same classification system\nsoc_code_2010, soc_code_2018: Legacy codes that overlap with updated versions"
+  },
+  {
+    "objectID": "data_analysis.html#why-remove-multiple-versions-of-naicssoc-codes",
+    "href": "data_analysis.html#why-remove-multiple-versions-of-naicssoc-codes",
+    "title": "Data Cleaning & Rationale",
+    "section": "",
+    "text": "Note\n\n\n\nNAICS (North American Industry Classification System) and SOC (Standard Occupational Classification) codes are updated periodically. Including multiple versions introduces: - Redundancy - Confusion in grouping industries or occupations - Risk of double-counting or misalignment in trend analysis\n\n\nWe retained only the most recent version of each code to ensure consistency and relevance to 2024 labor market trends."
+  },
+  {
+    "objectID": "data_analysis.html#how-this-improves-analysis",
+    "href": "data_analysis.html#how-this-improves-analysis",
+    "title": "Data Cleaning & Rationale",
+    "section": "",
+    "text": "Cleaning the dataset in this way improves our analysis by:\n\nReducing noise: Fewer columns means clearer signals\nImproving interpretability: Analysts and readers can focus on current classifications\nEnhancing visualizations: Charts and tables are easier to read and more meaningful\nEnsuring consistency: Aligns with external sources like Lightcast and BLS data"
+  },
+  {
+    "objectID": "data_analysis.html#next-steps",
+    "href": "data_analysis.html#next-steps",
+    "title": "Data Cleaning & Rationale",
+    "section": "",
+    "text": "With a cleaner dataset, we’re now ready to explore key workforce themes—such as AI-driven job growth, salary disparities, and gender-based employment patterns—using reliable, streamlined data."
   }
 ]
