@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Business Analytics, Data Science and Machine Learning Trends",
-    "section": "",
-    "text": "The field of data science, business analytics and machine learning has been growing very rapidly in the past few years due to increase in use of artificial intelligence and automation across sectors. With this emergence of new tools and platforms, companies are constantly updating their hiring criteria. Now more than before, job roles are asking for specific skillsets including both technical and analytical abilities. Therefore, it is important to understand what skills are most in-demand at present, how job descriptions have changed in recent times and which job industries are offering the most opportunities in these domain.\n\n\n\nRecent studies are showing that employers are now giving more importance to skill-based hiring especially in data-related roles. (Bone, Ehlinger, and Stephany (2025)) found that in AI-related job postings, the need for formal degrees is slowly reducing while practical skills like machine learning and NLP are becoming more valued. (Mäkelä and Stephany (2024)) also pointed out that roles demanding AI expertise now also look for soft skills like adaptability and teamwork showing that a balance of technical and human skills is becoming necessary. These findings suggest that job descriptions are evolving to reflect this shift in priorities.\nFurther, our study reveals that hiring is strong in technology, healthcare and financial sectors where the use of data is becoming highly critical. These trends clearly indicates that both education and job markets must keep evolving to stay aligned with real-world demands."
-  },
-  {
-    "objectID": "index.html#rationale",
-    "href": "index.html#rationale",
-    "title": "Business Analytics, Data Science and Machine Learning Trends",
-    "section": "",
-    "text": "The field of data science, business analytics and machine learning has been growing very rapidly in the past few years due to increase in use of artificial intelligence and automation across sectors. With this emergence of new tools and platforms, companies are constantly updating their hiring criteria. Now more than before, job roles are asking for specific skillsets including both technical and analytical abilities. Therefore, it is important to understand what skills are most in-demand at present, how job descriptions have changed in recent times and which job industries are offering the most opportunities in these domain."
-  },
-  {
-    "objectID": "index.html#literature-review",
-    "href": "index.html#literature-review",
-    "title": "Business Analytics, Data Science and Machine Learning Trends",
-    "section": "",
-    "text": "Recent studies are showing that employers are now giving more importance to skill-based hiring especially in data-related roles. (Bone, Ehlinger, and Stephany (2025)) found that in AI-related job postings, the need for formal degrees is slowly reducing while practical skills like machine learning and NLP are becoming more valued. (Mäkelä and Stephany (2024)) also pointed out that roles demanding AI expertise now also look for soft skills like adaptability and teamwork showing that a balance of technical and human skills is becoming necessary. These findings suggest that job descriptions are evolving to reflect this shift in priorities.\nFurther, our study reveals that hiring is strong in technology, healthcare and financial sectors where the use of data is becoming highly critical. These trends clearly indicates that both education and job markets must keep evolving to stay aligned with real-world demands."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "👥 About This Project\n\nExploring the future of work through data, collaboration, and curiosity.\nThe purpose of this project is to explore how job seekers can strategically position themselves in the evolving labor market of 2025. Rather than analyzing trends from a recruiter’s perspective, our team approached this challenge as future professionals navigating a landscape shaped by AI adoption, remote work, shifting salary norms, and gender-based employment patterns.Using real-world data from Lightcast and other labor market sources, we applied data science, analytics, and visualization techniques to investigate key workforce themes. Our goal was to uncover actionable insights that inform personal career planning and highlight the skills most in demand across industries. This website presents our findings, reflections, and recommendations—designed not only to fulfill academic objectives, but to serve as a practical roadmap for anyone preparing to enter or pivot within today’s dynamic job market."
-  },
-  {
     "objectID": "data_analysis.html",
     "href": "data_analysis.html",
     "title": "Data Cleaning & Rationale",
@@ -61,5 +33,89 @@
     "title": "Data Cleaning & Rationale",
     "section": "",
     "text": "With a cleaner dataset, we’re now ready to explore key workforce themes—such as AI-driven job growth, salary disparities, and gender-based employment patterns—using reliable, streamlined data."
+  },
+  {
+    "objectID": "personal_career_strategy_plan.html",
+    "href": "personal_career_strategy_plan.html",
+    "title": "Personal Career Strategy Plan",
+    "section": "",
+    "text": "title: “Personal Career Strategy Plan” format: html"
+  },
+  {
+    "objectID": "personal_career_strategy_plan.html#anu-sharma",
+    "href": "personal_career_strategy_plan.html#anu-sharma",
+    "title": "Personal Career Strategy Plan",
+    "section": "Anu Sharma",
+    "text": "Anu Sharma"
+  },
+  {
+    "objectID": "personal_career_strategy_plan.html#cindy-guzman",
+    "href": "personal_career_strategy_plan.html#cindy-guzman",
+    "title": "Personal Career Strategy Plan",
+    "section": "Cindy Guzman",
+    "text": "Cindy Guzman"
+  },
+  {
+    "objectID": "personal_career_strategy_plan.html#gavin-boss",
+    "href": "personal_career_strategy_plan.html#gavin-boss",
+    "title": "Personal Career Strategy Plan",
+    "section": "Gavin Boss",
+    "text": "Gavin Boss"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Business Analytics, Data Science and Machine Learning Trends",
+    "section": "",
+    "text": "The field of data science, business analytics and machine learning has been growing very rapidly in the past few years due to increase in use of artificial intelligence and automation across sectors. With this emergence of new tools and platforms, companies are constantly updating their hiring criteria. Now more than before, job roles are asking for specific skillsets including both technical and analytical abilities. Therefore, it is important to understand what skills are most in-demand at present, how job descriptions have changed in recent times and which job industries are offering the most opportunities in these domain.\n\n\n\nRecent studies are showing that employers are now giving more importance to skill-based hiring especially in data-related roles. (Bone, Ehlinger, and Stephany (2025)) found that in AI-related job postings, the need for formal degrees is slowly reducing while practical skills like machine learning and NLP are becoming more valued. (Mäkelä and Stephany (2024)) also pointed out that roles demanding AI expertise now also look for soft skills like adaptability and teamwork showing that a balance of technical and human skills is becoming necessary. These findings suggest that job descriptions are evolving to reflect this shift in priorities.\nFurther, our study reveals that hiring is strong in technology, healthcare and financial sectors where the use of data is becoming highly critical. These trends clearly indicates that both education and job markets must keep evolving to stay aligned with real-world demands."
+  },
+  {
+    "objectID": "index.html#rationale",
+    "href": "index.html#rationale",
+    "title": "Business Analytics, Data Science and Machine Learning Trends",
+    "section": "",
+    "text": "The field of data science, business analytics and machine learning has been growing very rapidly in the past few years due to increase in use of artificial intelligence and automation across sectors. With this emergence of new tools and platforms, companies are constantly updating their hiring criteria. Now more than before, job roles are asking for specific skillsets including both technical and analytical abilities. Therefore, it is important to understand what skills are most in-demand at present, how job descriptions have changed in recent times and which job industries are offering the most opportunities in these domain."
+  },
+  {
+    "objectID": "index.html#literature-review",
+    "href": "index.html#literature-review",
+    "title": "Business Analytics, Data Science and Machine Learning Trends",
+    "section": "",
+    "text": "Recent studies are showing that employers are now giving more importance to skill-based hiring especially in data-related roles. (Bone, Ehlinger, and Stephany (2025)) found that in AI-related job postings, the need for formal degrees is slowly reducing while practical skills like machine learning and NLP are becoming more valued. (Mäkelä and Stephany (2024)) also pointed out that roles demanding AI expertise now also look for soft skills like adaptability and teamwork showing that a balance of technical and human skills is becoming necessary. These findings suggest that job descriptions are evolving to reflect this shift in priorities.\nFurther, our study reveals that hiring is strong in technology, healthcare and financial sectors where the use of data is becoming highly critical. These trends clearly indicates that both education and job markets must keep evolving to stay aligned with real-world demands."
+  },
+  {
+    "objectID": "skill_gap_analysis.html",
+    "href": "skill_gap_analysis.html",
+    "title": "Business Analytics, Data Science and Machine Learning Trends",
+    "section": "",
+    "text": "Code\nimport pandas as pd\nimport matplotlib.pyplot as plt\nimport seaborn as sns\n\n# Fixed: matching number of values with number of names, we need to make sure that we update these values and update the formatting, this is just a baseline to get it working\nskills_data = {\n    \"Name\": [\"Anu\", \"Cindy\", \"Gavin\"],\n    \"Python\": [5, 3, 4],\n    \"SQL\": [4, 2, 5],\n    \"Machine Learning\": [3, 1, 4],\n    \"Cloud Computing\": [2, 2, 3]\n    \n}\n\ndf_skills = pd.DataFrame(skills_data)\ndf_skills.set_index(\"Name\", inplace=True)\ndf_skills[\"Average Skill\"] = df_skills.mean(axis=1).round(2)\n\n\n# Display the dataframe\nprint(df_skills)\n\n# Create heatmap\nplt.figure(figsize=(8, 6))\nsns.heatmap(df_skills, annot=True, cmap=\"coolwarm\", linewidths=0.5, fmt='0.2f')\nplt.title(\"Team Skill Levels Heatmap\")\n\nplt.show()\n\n\n       Python  SQL  Machine Learning  Cloud Computing  Average Skill\nName                                                                \nAnu         5    4                 3                2            3.5\nCindy       3    2                 1                2            2.0\nGavin       4    5                 4                3            4.0\nCode\nfrom collections import Counter\n\n# Assuming job_descriptions is a list of text from job postings\ntop_skills = [\"Python\", \"SQL\", \"Machine Learning\", \"Cloud Computing\", \"Docker\", \"AWS\"]\njob_skill_counts = Counter(top_skills)\n\n# Compare with team skill levels\nfor skill in top_skills:\n    if skill not in df_skills.columns:\n        df_skills[skill] = 0  # Assume no knowledge in missing skills\n\ndf_skills\n\n\n\n\n\n\n\n\n\n\nPython\nSQL\nMachine Learning\nCloud Computing\nAverage Skill\nDocker\nAWS\n\n\nName\n\n\n\n\n\n\n\n\n\n\n\nAnu\n5\n4\n3\n2\n3.5\n0\n0\n\n\nCindy\n3\n2\n1\n2\n2.0\n0\n0\n\n\nGavin\n4\n5\n4\n3\n4.0\n0\n0"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "👥 About This Project\n\nExploring the future of work through data, collaboration, and curiosity.\nThe purpose of this project is to explore how job seekers can strategically position themselves in the evolving labor market of 2025. Rather than analyzing trends from a recruiter’s perspective, our team approached this challenge as future professionals navigating a landscape shaped by AI adoption, remote work, shifting salary norms, and gender-based employment patterns.Using real-world data from Lightcast and other labor market sources, we applied data science, analytics, and visualization techniques to investigate key workforce themes. Our goal was to uncover actionable insights that inform personal career planning and highlight the skills most in demand across industries. This website presents our findings, reflections, and recommendations—designed not only to fulfill academic objectives, but to serve as a practical roadmap for anyone preparing to enter or pivot within today’s dynamic job market."
+  },
+  {
+    "objectID": "skill_gap_analysis.html#our-team-should-prioritize-learning-x-skills-need-to-look-at-the-data-in-order-to-ensure-that-we-compare-it-to-the-data-that-meets-the-job-postings",
+    "href": "skill_gap_analysis.html#our-team-should-prioritize-learning-x-skills-need-to-look-at-the-data-in-order-to-ensure-that-we-compare-it-to-the-data-that-meets-the-job-postings",
+    "title": "Business Analytics, Data Science and Machine Learning Trends",
+    "section": "Our team should prioritize learning X skills (need to look at the data in order to ensure that we compare it to the data that meets the job postings)",
+    "text": "Our team should prioritize learning X skills (need to look at the data in order to ensure that we compare it to the data that meets the job postings)"
+  },
+  {
+    "objectID": "skill_gap_analysis.html#courses-that-we-could-take-that-could-help",
+    "href": "skill_gap_analysis.html#courses-that-we-could-take-that-could-help",
+    "title": "Business Analytics, Data Science and Machine Learning Trends",
+    "section": "courses that we could take that could help",
+    "text": "courses that we could take that could help"
+  },
+  {
+    "objectID": "skill_gap_analysis.html#how-the-team-can-help-eachother-this-would-be-like-if-one-of-us-was-better-at-other-areas-as-opposed-to-other-areas-say-one-of-us-is-better-at-machine-learning-we-could-leverage-learning-from-them-in-order-to-gain-a-better-understanding.",
+    "href": "skill_gap_analysis.html#how-the-team-can-help-eachother-this-would-be-like-if-one-of-us-was-better-at-other-areas-as-opposed-to-other-areas-say-one-of-us-is-better-at-machine-learning-we-could-leverage-learning-from-them-in-order-to-gain-a-better-understanding.",
+    "title": "Business Analytics, Data Science and Machine Learning Trends",
+    "section": "How the team can help eachother, this would be like if one of us was better at other areas as opposed to other areas, say one of us is better at machine learning, we could leverage learning from them in order to gain a better understanding.",
+    "text": "How the team can help eachother, this would be like if one of us was better at other areas as opposed to other areas, say one of us is better at machine learning, we could leverage learning from them in order to gain a better understanding."
   }
 ]

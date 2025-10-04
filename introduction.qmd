@@ -1,0 +1,14 @@
+---
+title: "Business Analytics, Data Science and Machine Learning Trends"
+author: "Anu Sharma, Cindy Guzman, Gavin Boss"
+date: "2025-09-10"
+format:
+  html:
+    bibliography: references.bib
+    csl: csl/econometrica.csl
+    toc: true
+execute:
+  echo: true
+  eval: false
+code-fold: true
+---
